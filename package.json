@@ -1,0 +1,10 @@
+{
+  "name": "saerafolio",
+  "version": "0.0.1",
+  "description": "Portfolio of Saera Chang. Built by Taeyoon Lee",
+  "main": "dist/index.js",
+  "repository": "https://github.com/saera01/saerafolio.git",
+  "author": "Taeyoon Lee <taeyoon0137@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.1.0"
+}
